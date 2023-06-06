@@ -1,0 +1,14 @@
+#Git tutorial
+
+-> git init : nv projet
+-> git add . (ou nom des fichiers spécifiques) : ajout des fichiers
+-> git commit : commit
+-> git status : check les status
+-> git log : afficher l'historique et l'état des branches
+-> git push : push sur github
+-> git push origin <branche> : si la branche distante n'a pas été configuré
+
+#Dont forget
+
+-> .git/config : fichier de config de Git
+-> gitignore : a chaque commit il prend pas en compte les fichiers compris dedans 
